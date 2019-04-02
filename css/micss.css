@@ -1,0 +1,42 @@
+@font-face{
+    font-family:indie;
+    src:url(../fonts/Rockout/Rockout-Regular.ttf);
+}
+
+
+h1 {
+   font-family: indie, serif;
+    font-size: 45px;
+}
+
+
+
+@font-face{
+    font-family:indie1;
+    src:url(../fonts/tipe/type.ttf);
+}
+
+
+p {
+   font-family: indie1, serif;
+    font-size: 20px;
+
+
+}
+
+
+
+
+@font-face{
+    font-family:indies;
+    src:url(../fonts/Thrones/Thrones.ttf);
+}
+
+
+a {
+   font-family: indies, serif;
+   font-size: 25px;
+   
+
+
+}
